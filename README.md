@@ -48,6 +48,6 @@ OLTP → S3 Raw → Lambda/Glue → S3 Processed → Redshift → Power BI
 
 ## Contact
 
-[Your Name] - [sreeragcr547@gmail.com]
+[SREERAG C R] - [sreeragcr547@gmail.com]
 
 GitHub: [github.com/sreeragcr13/aws-etl-pipeline](https://github.com/sreeragcr13/Support-Tickets-ETL-Pipeline-Using-AWS)
