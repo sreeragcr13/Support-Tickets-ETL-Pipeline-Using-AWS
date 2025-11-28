@@ -4,7 +4,7 @@ Cloud-based ETL pipeline for CarePlus BPO that processes support ticket data usi
 
 ## Architecture
 
-![Data Architecture](path/to/architecture.jpeg)
+![Data Architecture](Pipeline_architecture.jpeg)
 
 ## Tech Stack
 
