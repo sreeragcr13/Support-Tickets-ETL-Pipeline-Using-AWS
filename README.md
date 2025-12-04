@@ -36,7 +36,7 @@ Careplus is a support system that logs tickets and system errors, capturing both
 
 ## 🧱 **Pipeline Architecture**
 
-![Pipeline Architecture](project_architecture.png)
+![Pipeline Architecture](Pipeline_architecture.jpeg)
 
 ### **Data Flow**:
 1. **Support Logs & Tickets**: Data is ingested into **S3** in CSV and log file formats.
